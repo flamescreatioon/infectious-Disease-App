@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>54197815736-jbjnfi62uaou5mli6dmlcpe7aqn0opmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54197815736-jbjnfi62uaou5mli6dmlcpe7aqn0opmk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>54197815736-sonn8vr6ecbnjn0nnqn71rec62oh6dum.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBY97ht623wQtLAoagVRhanB0Jdb3OFfCc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54197815736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.infectiousdiseasetracker</string>
+	<key>PROJECT_ID</key>
+	<string>infectious-disease-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>infectious-disease-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54197815736:ios:65bb90dfcdbbf20a06674d</string>
+</dict>
+</plist>
